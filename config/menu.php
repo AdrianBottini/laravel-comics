@@ -2,51 +2,51 @@
 
 return [
     [
-        'route' => ['home'],
-        'label' => ['home'],
+        'route' => 'home',
+        'label' => 'home',
     ],
     [
-        'route' => ['fumetti'],
-        'label' => ['fumetti'],
+        'route' => 'fumetti',
+        'label' => 'fumetti',
     ],
     [
-        'route' => ['characters'],
-        'label' => ['characters'],
+        'route' => 'characters',
+        'label' => 'characters',
     ],
     [
-        'route' => ['comics'],
-        'label' => ['comics'],
+        'route' => 'comics',
+        'label' => 'comics',
     ],
     [
-        'route' => ['movies'],
-        'label' => ['movies'],
+        'route' => 'movies',
+        'label' => 'movies',
     ],
     [
-        'route' => ['tv'],
-        'label' => ['tv'],
+        'route' => 'tv',
+        'label' => 'tv',
     ],
     [
-        'route' => ['games'],
-        'label' => ['games'],
+        'route' => 'games',
+        'label' => 'games',
     ],
     [
-        'route' => ['collectibles'],
-        'label' => ['collectibles'],
+        'route' => 'collectibles',
+        'label' => 'collectibles',
     ],
     [
-        'route' => ['videos'],
-        'label' => ['videos'],
+        'route' => 'videos',
+        'label' => 'videos',
     ],
     [
-        'route' => ['fans'],
-        'label' => ['fans'],
+        'route' => 'fans',
+        'label' => 'fans',
     ],
     [
-        'route' => ['news'],
-        'label' => ['news'],
+        'route' => 'news',
+        'label' => 'news',
     ],
     [
-        'route' => ['shop'],
-        'label' => ['shop'],
+        'route' => 'shop',
+        'label' => 'shop',
     ],
 ];
