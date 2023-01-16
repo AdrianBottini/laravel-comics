@@ -9,7 +9,7 @@
           </div>
         <div class="boxMenu">
           <ul>
-            <li><a href="">CHARACTERS</a></li>
+            <li><a href="{{ route('characters')}}">CHARACTERS</a></li>
             <li><a href="">COMICS</a></li>
             <li><a href="">MOVIES</a></li>
             <li><a href="">TV</a></li>
