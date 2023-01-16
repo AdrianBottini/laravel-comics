@@ -8,14 +8,16 @@
             @foreach ($comics as $item)
                 <div class="card">
                     <img src="{{ ($item['thumb']) }}" alt="">
-                    <div>
+                    <div class="testo">
                         {{ ($item['series']) }}
                     </div >
                 </div>
             @endforeach
 
         </div>
-        <button>LOAD MORE</button>
+        <div class="contenitore-bottone">
+            <button class="bottone">LOAD MORE</button>
+        </div>
     </div>
     <div class="containerBlue">
         <div class="container">

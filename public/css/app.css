@@ -108,6 +108,24 @@ html {
     text-align: center;
     width: 200px;
     height: 200px;
+    padding: 10px;
+  }
+
+  .testo {
+    padding: 10px;
+  }
+
+  .contenitore-bottone {
+    text-align: center;
+    padding: 10px;
+    height: 45px;
+  }
+
+  .bottone {
+    width: 190px;
+    background-color: rgb(2, 130, 249);
+    color: white;
+    font-size: 20px;
   }
 
   img {
