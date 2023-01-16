@@ -1,5 +1,5 @@
 @extends('guest.layouts.base')
 
 @section('content')
-    <h1>sono la home page</h1>
+    <div style="background-color: #0091ff; justify-content: center; display: flex; width: 100%">Comics Official Site</div>
 @endsection
